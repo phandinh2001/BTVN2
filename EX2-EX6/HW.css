@@ -1,0 +1,37 @@
+/* BÀI 2
+    div{
+    font-size: 3em;
+    background: wheat
+    }
+  */
+
+  /* BÀI 3
+    #div1{
+    color: black;
+        }
+        
+    #div2{
+    color: blue;
+        }
+*/
+/* BÀI 4
+
+.color{
+  color:yellow;
+}
+*/
+
+
+/*Bài 5
+ul li {
+  font-weight: bold;
+}
+*/
+.item  {
+  font-size:  18 px ;
+}
+
+div.item  span:last-child {
+
+font-style : italic;
+}

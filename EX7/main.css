@@ -1,0 +1,20 @@
+h2 {
+    font-weight: bold;
+}
+.p1{
+    font-size: 13px;
+}
+.p2{
+    padding-left: 50px;
+}  
+a{
+    color: blue;
+} 
+.a{
+    color: black;
+    text-decoration: none;
+}
+.p3{
+    color: blue;
+    text-decoration-line: underline
+}
